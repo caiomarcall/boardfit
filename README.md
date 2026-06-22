@@ -9,8 +9,8 @@ A página aborda o problema de surfistas que encontram dificuldades e frustraç�
 
 ## Tecnologias Utilizadas
 
-* **HTML5:** Utilizado para a marcação do conteúdo e estruturação das seções da página.
-* **CSS3:** Utilizado para a estilização visual, definição da paleta de cores, layout dos cards e responsividade para dispositivos móveis.
+* **HTML:** Utilizado para a marcação do conteúdo e estruturação das seções da página.
+* **CSS:** Utilizado para a estilização visual, definição da paleta de cores, layout dos cards e responsividade para dispositivos móveis.
 
 ## Estrutura de Arquivos
 

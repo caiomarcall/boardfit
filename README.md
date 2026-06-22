@@ -1,8 +1,8 @@
-<img width="2930" height="1634" alt="image" src="https://github.com/user-attachments/assets/f8613b77-5af9-43cf-bef1-fef40e707bb1" /># boardfit
+<img width="2930" height="1634" alt="image" src="https://github.com/user-attachments/assets/f8613b77-5af9-43cf-bef1-fef40e707bb1" /> boardfit
 projeto surf
 
 
-Projeto BoardFit - Landing Page com Storytelling
+Projeto BoardFit 
 
 Este é um projeto acadêmico desenvolvido para criar uma interface funcional de uma landing page. O objetivo do BoardFit é ajudar surfistas a encontrarem a prancha ideal por meio de um Shaper Virtual baseado em um algoritmo simulado.
 

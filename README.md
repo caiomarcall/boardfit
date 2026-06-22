@@ -19,12 +19,6 @@ O projeto é composto por dois arquivos simples que devem ficar no mesmo diretó
 * **boardfit.html:** Contém toda a estrutura de tags da página e o conteúdo descritivo das seções.
 * **style.css:** Contém as regras de design, variáveis de cores e configurações de layout.
 
-## Como Executar o Projeto
-
-1. Baixe os arquivos `boardfit.html` e `style.css` e coloque-os dentro da mesma pasta no seu computador.
-2. Abra o VS Code e use a opção "Open Folder" para abrir essa pasta.
-3. Clique com o botão direito no arquivo `boardfit.html` e selecione "Open with Live Server" para visualizar o site rodando no navegador.
-
 ## Integrantes do Grupo
 
 * Simon Pais

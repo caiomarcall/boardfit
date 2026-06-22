@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # Projeto BoardFit
 
 Este é um projeto acadêmico desenvolvido para criar uma interface funcional de uma landing page. O objetivo do BoardFit é ajudar surfistas a encontrarem a prancha ideal por meio de um Shaper Virtual baseado em um algoritmo simulado.
